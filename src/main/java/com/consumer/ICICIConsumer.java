@@ -44,7 +44,7 @@ public class ICICIConsumer {
 		System.out.println(updateFirst);
 
 		System.out.println("received to ICICI");
-		return "balance updated in your ICICI bank account : " + final_bal;
+		return "balance updated in ICICI BANK :: account number = "+ accountNumber +" ICICI Balance : " + final_bal;
 	}
 	
 }
